@@ -3,7 +3,13 @@
 <body>
     <div class="container">
         <h1>Über mich</h1>
-        <p>Hier steht eine Beschreibung über dich selbst.</p>
-        <p>Mein Talent: HTML, Bootstrap, ...</p>
+        <p>Was habe ich in diesem Kurs gelernt?</p>
+        <p>In diesem Kurs habe ich gelernt wie man Visual Studio und GitHub benutzt.
+             Ich habe gelernt wie ich in HTML eine Website aufbauen kann und habe dabei verschiedene Tags gelernt.
+             ich habe gelernt wie man Bootstrap und Templates benutzt.
+             Ich habe gelernt wie man mit php den header und den Footer für jede Seite gleichsetzt.
+             Ich habe gelernt dass man mit verlinkungen zu einer css datei die Webseite bearbeiten kann.
+        
+        </p>
     </div>
     <?php require_once('assets/layout/footer.php'); ?> 

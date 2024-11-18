@@ -25,6 +25,8 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="login.php">Login</a>
+                        <li class="nav-item">
+                        <a class="nav-link" href="secret.php">Secret</a>
                     </li>
                 </ul>
             </div>

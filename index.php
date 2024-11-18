@@ -6,8 +6,8 @@
     <h1>Willkommen auf meiner persönlichen Website!</h1>
     <p>Kurs: Web Programmierung by Ali Khorsandfard</p>
     <p>Informatiker Winter 2024</p>
-    <p>Name: [Ihr Vorname] [Ihr Nachname]</p>
-    <p>Standort: [Ihr Standort]</p>
+    <p>Name: Tunahan Türkyilmaz</p>
+    <p>Standort:  Herford</p>
     <form>
         <div class="form-group">
             <label for="email">Email:</label>
