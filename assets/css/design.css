@@ -1,0 +1,24 @@
+body {
+    font-family: Arial;
+    background-color: black;
+    color: #343a40;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+.footer {
+    background-color: #343a40; 
+    color: white; 
+    padding: 15px 0; 
+    position: fixed; 
+    bottom: 0; /
+    width: 100%; 
+    text-align: center; 
+}
+
