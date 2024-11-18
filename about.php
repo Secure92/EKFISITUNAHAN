@@ -8,7 +8,7 @@
              Ich habe gelernt wie ich in HTML eine Website aufbauen kann und habe dabei verschiedene Tags gelernt.
              ich habe gelernt wie man Bootstrap und Templates benutzt.
              Ich habe gelernt wie man mit php den header und den Footer für jede Seite gleichsetzt.
-             Ich habe gelernt dass man mit verlinkungen zu einer css datei die Webseite bearbeiten kann.
+             Ich habe gelernt dass man mit verlinkungen zu einer css datei die elemente in einer Website designen kann.
         
         </p>
     </div>
