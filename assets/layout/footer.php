@@ -1,4 +1,4 @@
-<link href="assets/css/design.css" rel="stylesheet">
+</div>
 <footer class="footer">
   <div class="container text-center">
     <p>2024 Tunahan Türkyilmaz. Alle Rechte vorbehalten.</p>

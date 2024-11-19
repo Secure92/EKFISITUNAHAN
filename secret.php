@@ -1,9 +1,9 @@
 <?php require_once('assets/layout/header.php'); ?> 
 
-<body>
     <div class="container">
         <h1>Geheime Informationen</h1>
         <p>Vollständiger Name: Tunahan Türkyilmaz</p>
         <p>Adresse: 32051 Herford Töpferweg 1</p>
     </div>
-    <?php require_once('assets/layout/footer.php'); ?> 
+
+<?php require_once('assets/layout/footer.php'); ?> 

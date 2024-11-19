@@ -1,8 +1,5 @@
-<?php require_once('assets/layout/header.php'); ?> 
+<?php require_once('assets/layout/header.php'); ?>
 
-
-
-<div class="container mt-5">
     <h1>Willkommen auf meiner persönlichen Website!</h1>
     <p>Kurs: Web Programmierung by Ali Khorsandfard</p>
     <p>Informatiker Winter 2024</p>
@@ -19,6 +16,6 @@
         </div>
         <button type="submit" class="btn btn-primary">Kontaktiere mich</button>
     </form>
-</div>
+
 
 <?php require_once('assets/layout/footer.php'); ?> 
