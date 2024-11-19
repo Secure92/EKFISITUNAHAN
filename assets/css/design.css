@@ -1,11 +1,12 @@
 body {
     font-family: Arial;
-    background-color: black;
-    color: #343a40;
+    background-color: rgb(41, 40, 40);
+    color: #b1bac4;
 }
 
 h1 {
     color: #007bff;
+
 }
 
 .container {
